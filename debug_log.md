@@ -15,7 +15,15 @@ _Then I noticed another bug ..._
 
 ## Exercise 1
 
-[[Your answer goes here!]]
+-  A few assumptions that im making are that both pages(Homepage & New Order) are working well and the issue occurs when people attempt to add pizza to the homepage.
+
+- The first approach that I would take is to speak to a rubber ducky to find potential ways to fix this problem. I would also see if other items are being added correctly such as drinks, snacks, etc.
+
+- Next I would use the divide and conquer technique to pinpoint where the bug is located(Probably in the "add pizza" section).
+
+- I would then use the tracing forward technique to understand the code and if im unable to figure it out I would refer to a similar section of code(ex. adding drinks) and compare the two sections to see if I can find any similarities and/or differences that will help me solve this issue.
+
+- I noticed there were multiple bugs in the app.py file and also the templte pages. A few of the variables were named diffrently which was causing the app to crash.
 
 ## Exercise 2
 
